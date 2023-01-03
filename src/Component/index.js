@@ -1,0 +1,8 @@
+export { default as Login} from '../Component/Login'
+export { default as SideBar} from '../Component/Sidebar'
+export { default as UserProfile} from '../Component/UserProfile'
+export { default as Navbar} from '../Component/Navbar'
+export { default as PinDetail} from '../Component/PinDetail'
+export { default as CreatePin} from '../Component/CreatePin'
+export { default as Feed} from '../Component/Feed'
+export { default as Search} from '../Component/Search'
